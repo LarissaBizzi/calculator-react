@@ -1,2 +1,4 @@
 # calculator-react
-I made a simple calculator using React
+
+I made this simple calculator using React.
+This was an exercise from the React Basic course. 
